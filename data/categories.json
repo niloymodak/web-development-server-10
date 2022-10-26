@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "HTML"
+    },
+    {
+        "id": "02",
+        "name": "CSS"
+    },
+    {
+        "id": "03",
+        "name": "FRAME WORK"
+    },
+    {
+        "id": "04",
+        "name": "JAVA SCRIPT"
+    },
+    {
+        "id": "05",
+        "name": "REACT"
+    },
+    {
+        "id": "06",
+        "name": "REACT-ROUTER"
+    },
+    {
+        "id": "07",
+        "name": "REACT-FIREBASE"
+    }
+]

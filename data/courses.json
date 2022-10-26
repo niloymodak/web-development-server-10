@@ -1,0 +1,266 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML for beginner",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a5",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a7",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML3",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "HTML 3.2[15] was published as a W3C Recommendation. It was the first version developed and standardized exclusively by the W3C, as the IETF had closed its HTML Working Group on September 12, 1996.[16] Initially code-named Wilbur,[17] HTML 3.2 dropped math formulas entirely, reconciled overlap among various proprietary extensions and adopted most of Netscape's visual markup tags. Netscape's blink element and Microsoft's marquee element were omitted due to a mutual agreement between the two companies.[13] A markup for mathematical formulas similar to that in HTML was not standardized until 14 months later in MathML."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab68",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML5",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final[3] major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft)."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a8",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML crash course",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "Many new syntactic features are included. To natively include and handle multimedia and graphical content, the new <video>, <audio> and <canvas> elements were added, expandable sections are natively implemented through <summary>...</summary> and <details>...</details> rather than depending on CSS or JavaScript, and support for scalable vector graphics (SVG) content and MathML for mathematical formulas was also added. To enrich the semantic content of documents, new page structure elements such as <main>, <section>, <article>, <header>, <footer>, <aside>, <nav>, and <figure> are added. New attributes were introduced, some elements and attributes were removed, and others such as <a>, <cite>, and <menu> were changed, redefined, or standardized. The APIs and Document Object Model (DOM) are now fundamental parts of the HTML5 specification,[7] and HTML5 also better defines the processing for any invalid documents.[8]"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a09",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "HTML full course",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "starting_date": "2022-08-24",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://content.instructables.com/ORIG/FRU/S8HX/I0XOHZ31/FRUS8HXI0XOHZ31.jpg?auto=webp",
+        "details": "HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[2] A form of HTML, known as HTML5, is used to display video and audio, primarily using the <canvas> element, in collaboration with javascript."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 25,
+        "title": "CSS",
+        "teacher": {
+            "name": "Dane Jimmy",
+            "starting_date": "2022-08-24 ",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "rating": 4.8,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "FRAMEWORK",
+        "teacher": {
+            "name": "Jennifer Wood",
+            "starting_date": "2022-08-30 ",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "rating": 4.3,
+            "badge": "Excellent"
+        },
+        "total_class": 45,
+        "title": "JAVASCRIPT",
+        "teacher": {
+            "name": "Jennifer Wood",
+            "starting_date": "2022-08-30 ",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 35,
+        "title": "REACT",
+        "teacher": {
+            "name": "system",
+            "starting_date": "2022-08-24 ",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "06",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 25,
+        "title": "REACT-ROUTER",
+        "teacher": {
+            "name": "system",
+            "starting_date": "2022-08-24 ",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "07",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "REACT-FIREBASE",
+        "teacher": {
+            "name": null,
+            "starting_date": "2022-08-30",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+        "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    }
+]
