@@ -132,7 +132,7 @@
         "details": "HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[2] A form of HTML, known as HTML5, is used to display video and audio, primarily using the <canvas> element, in collaboration with javascript."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b3",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -143,15 +143,81 @@
             "badge": "Excellent"
         },
         "total_class": 25,
-        "title": "CSS",
+        "title": "CSS basic",
         "teacher": {
             "name": "Dane Jimmy",
             "starting_date": "2022-08-24 ",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf86zpFYftu3ICcb65SPJMaw9nbTJPBwqTA&usqp=CAU"
         },
         "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVaqnsRT3juZn52mioBy9MbAdWieWyHwUHGw0Tg17LYWTHOIQEVaeY5kS6S6xAhWIffQ&usqp=CAU",
+        "details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b62",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 25,
+        "title": "CSS3",
+        "teacher": {
+            "name": "Dane Jimmy",
+            "starting_date": "2022-08-24 ",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf86zpFYftu3ICcb65SPJMaw9nbTJPBwqTA&usqp=CAU"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVaqnsRT3juZn52mioBy9MbAdWieWyHwUHGw0Tg17LYWTHOIQEVaeY5kS6S6xAhWIffQ&usqp=CAU",
+        "details": "CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b42",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 25,
+        "title": "CSS crash course",
+        "teacher": {
+            "name": "Dane Jimmy",
+            "starting_date": "2022-08-24 ",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf86zpFYftu3ICcb65SPJMaw9nbTJPBwqTA&usqp=CAU"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVaqnsRT3juZn52mioBy9MbAdWieWyHwUHGw0Tg17LYWTHOIQEVaeY5kS6S6xAhWIffQ&usqp=CAU",
+        "details": "Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on a mobile device.[4]The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b34",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 25,
+        "title": "CSS with HTML",
+        "teacher": {
+            "name": "Dane Jimmy",
+            "starting_date": "2022-08-24 ",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf86zpFYftu3ICcb65SPJMaw9nbTJPBwqTA&usqp=CAU"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVaqnsRT3juZn52mioBy9MbAdWieWyHwUHGw0Tg17LYWTHOIQEVaeY5kS6S6xAhWIffQ&usqp=CAU",
+        "details": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Along with graphics and scripting, HTML and CSS are the basis of building Web pages and Web Applications."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
