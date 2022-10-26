@@ -231,15 +231,37 @@
             "badge": "Excellent"
         },
         "total_class": 30,
-        "title": "FRAMEWORK",
+        "title": "Bootstrap",
         "teacher": {
             "name": "Jennifer Wood",
             "starting_date": "2022-08-30 ",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://st.depositphotos.com/1144472/2003/i/600/depositphotos_20030237-stock-photo-cheerful-young-man-over-white.jpg"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+        "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca710116",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "rating": 4.8,
+            "badge": "Excellent"
+        },
+        "total_class": 30,
+        "title": "Tailwind",
+        "teacher": {
+            "name": "Jennifer Wood",
+            "starting_date": "2022-08-30 ",
+            "img": "https://st.depositphotos.com/1144472/2003/i/600/depositphotos_20030237-stock-photo-cheerful-young-man-over-white.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTACqQ-DDjzjbgTYikfVSTWEVeKx6fp6MfXDIehp7ysZcLum1zlsrvJhJzs15hN7F6Rwko&usqp=CAU",
+        "details": "Tailwind CSS can be used to make websites in the fastest and the easiest way.Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. The beauty of this thing called tailwind is it doesn’t impose design specification or how your site should look like, you simply bring tiny components together to construct a user interface that is unique. What Tailwind simply does is take a ‘raw’ CSS file, processes this CSS file over a configuration file, and produces an output."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -253,18 +275,84 @@
             "badge": "Excellent"
         },
         "total_class": 45,
-        "title": "JAVASCRIPT",
+        "title": "JAVASCRIPT Basic",
         "teacher": {
-            "name": "Jennifer Wood",
+            "name": "John Adams",
             "starting_date": "2022-08-30 ",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmEdACKxI99On-XLsJArLX_XpH8WftBI70CJBkU91Pd023VAnwQohjWhUCO0j04W3VPY&usqp=CAU",
+        "details": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "_id": "f69a695f037cd9484cecaea37ca71012454",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "rating": 4.3,
+            "badge": "Excellent"
+        },
+        "total_class": 45,
+        "title": "JAVASCRIPT with Math",
+        "teacher": {
+            "name": "John Adams",
+            "starting_date": "2022-08-30 ",
+            "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmEdACKxI99On-XLsJArLX_XpH8WftBI70CJBkU91Pd023VAnwQohjWhUCO0j04W3VPY&usqp=CAU",
+        "details": "The JavaScript Math object allows you to perform mathematical tasks on numbers. Unlike other objects, the Math object has no constructor.The Math object is static.All methods and properties can be used without creating a Math object first."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca710122334",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "rating": 4.3,
+            "badge": "Excellent"
+        },
+        "total_class": 45,
+        "title": "JAVASCRIPT crash course",
+        "teacher": {
+            "name": "John Adams",
+            "starting_date": "2022-08-30 ",
+            "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmEdACKxI99On-XLsJArLX_XpH8WftBI70CJBkU91Pd023VAnwQohjWhUCO0j04W3VPY&usqp=CAU",
+        "details": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca710122342",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "rating": 4.3,
+            "badge": "Excellent"
+        },
+        "total_class": 45,
+        "title": "JAVASCRIPT Advanced",
+        "teacher": {
+            "name": "John Adams",
+            "starting_date": "2022-08-30 ",
+            "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=2000"
+        },
+        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmEdACKxI99On-XLsJArLX_XpH8WftBI70CJBkU91Pd023VAnwQohjWhUCO0j04W3VPY&usqp=CAU",
+        "details": "The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f934",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -275,15 +363,59 @@
             "badge": "Excellent"
         },
         "total_class": 35,
-        "title": "REACT",
+        "title": "REACT Basic",
         "teacher": {
-            "name": "system",
+            "name": "Henry",
             "starting_date": "2022-08-24 ",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?w=2000"
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "image_url": "https://reactnative.dev/img/logo-og.png",
+        "details": "React uses an HTML-in-JavaScript syntax called JSX (JavaScript and XML). Familiarity with both HTML and JavaScript will help you to learn JSX, and better identify whether bugs in your application are related to JavaScript or to the more specific domain of React."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f944",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 35,
+        "title": "REACT DOM",
+        "teacher": {
+            "name": "Henry",
+            "starting_date": "2022-08-24 ",
+            "img": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?w=2000"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://reactnative.dev/img/logo-og.png",
+        "details": "To build for the web, developers use React in tandem with ReactDOM. React and ReactDOM are often discussed in the same spaces as — and utilized to solve the same problems as — other true web development frameworks. When we refer to React as a framework, we're working with that colloquial understanding."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f976",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "rating": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 35,
+        "title": "REACT crash course",
+        "teacher": {
+            "name": "Henry",
+            "starting_date": "2022-08-24 ",
+            "img": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?w=2000"
+        },
+        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+        "image_url": "https://reactnative.dev/img/logo-og.png",
+        "details": "React utilizes features of modern JavaScript for many of its patterns. Its biggest departure from JavaScript comes with the use of JSX syntax. JSX extends JavaScript's syntax so that HTML-like code can live alongside it"
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f0",
