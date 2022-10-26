@@ -418,7 +418,7 @@
         "details": "React utilizes features of modern JavaScript for many of its patterns. Its biggest departure from JavaScript comes with the use of JSX syntax. JSX extends JavaScript's syntax so that HTML-like code can live alongside it"
     },
     {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "_id": "11468ed61aee84de492a8b04158a22f0555",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": false
@@ -428,19 +428,19 @@
             "rating": 4.5,
             "badge": "Excellent"
         },
-        "total_class": 25,
+        "total_class": 15,
         "title": "REACT-ROUTER",
         "teacher": {
-            "name": "system",
+            "name": "William",
             "starting_date": "2022-08-24 ",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtA8UeW1Z_zpyIwE4rGJ3t3722wOBWlgVKcol7Hw-xt_R68sc-51_DruKtTxwo1SKvw6c&usqp=CAU"
         },
         "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "image_url": "https://miro.medium.com/max/1400/1*sX8rBJBol5dBp5WIJQrYyw.png",
+        "details": "Components are the heart of React's powerful, declarative programming model. React Router is a collection of navigational components that compose declaratively with your application. Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering--so take your pick!"
     },
     {
-        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e74555",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -453,12 +453,12 @@
         "total_class": 30,
         "title": "REACT-FIREBASE",
         "teacher": {
-            "name": null,
+            "name": "Simone",
             "starting_date": "2022-08-30",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxtK-IYSs0I4a2aDz6S6shEaYmWoLKqFclbb9R3Tt2eddQ3CXNEa00c5oxuP3zhJpkAw&usqp=CAU"
         },
         "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+        "image_url": "https://cdn.worldvectorlogo.com/logos/react-native-firebase-1.svg",
+        "details": "Building apps with React & Firebase should be easy. The goal of this project is to offer intuitive declarative APIs to make interacting with Firebase fun and easy."
     }
 ]
